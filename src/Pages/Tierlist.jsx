@@ -37,7 +37,6 @@ export default function Tierlist(){
                 const reader = new FileReader()
 
                 reader.onload = (e) => {
-                    console.log(e)
                     const imgUrl = e.target.result
                     const imgId = Date.now()
 
