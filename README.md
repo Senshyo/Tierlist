@@ -45,4 +45,4 @@ O aplicativo estará disponível em http://localhost:3000 em seu navegador.
 Sinta-se à vontade para contribuir para este projeto. Se você encontrar algum problema ou tiver sugestões de melhorias, por favor, abra uma issue ou envie um pull request.
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
+Este projeto está licenciado sob a Licença MIT
