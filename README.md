@@ -9,7 +9,7 @@ Um aplicativo React simples para criar e gerenciar uma Tierlist
 - Exclua imagens individualmente.
 - Exclua todas as imagens em um tier.
 
-https://github.com/Senshyo/Tierlist/assets/89792958/01cdd651-3d1c-446e-a4be-22893732d7a5
+![Tierlist](https://github.com/Senshyo/Tierlist/assets/89792958/00973255-e667-4336-abbc-44221c29a67d)
 
 
 ## Começando
